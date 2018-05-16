@@ -1,0 +1,8 @@
+com\monirul\myturtle\command\turtle\TestSimpleCommand.class
+com\monirul\myturtle\simulation\TestDirection.class
+com\monirul\myturtle\TestGame.class
+com\monirul\myturtle\board\TestBoard.class
+com\monirul\myturtle\simulation\TestPosition.class
+com\monirul\myturtle\turtle\TestSimpleTurtle.class
+com\monirul\myturtle\command\TestCommandExecutor.class
+com\monirul\myturtle\command\TestGeneralCommand.class
