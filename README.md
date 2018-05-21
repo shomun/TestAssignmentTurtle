@@ -10,5 +10,7 @@ Currently, the program executes only console mode, but new Excutor can be implem
 
 **Following are few important components:**  
 **Game Class** - Initializes and manage the application.
+
 **GameContext Class** - Holds the current context.
+
 **AbstractTurtle Class** - Is the base class for turtle, it contains basic functionality.
